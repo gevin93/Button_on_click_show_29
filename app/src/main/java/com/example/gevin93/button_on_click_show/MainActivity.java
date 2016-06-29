@@ -10,9 +10,7 @@ import android.widget.Toast;
 //testing through as
 //testing  whether this works
 //testing again
-//testing again
 
-//testingthroughgit
 public class MainActivity extends AppCompatActivity {
 
     Button sendMessage;  //button variable
