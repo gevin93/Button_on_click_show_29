@@ -7,11 +7,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
-
 //testing through as
 //testing  whether this works
 
+//testing again
 
 //testingthroughgit
 public class MainActivity extends AppCompatActivity {
