@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButtonOnClickOnANewLayout</string>
+    <string name="edit_message">Enter Message Here</string>
+</resources>
